@@ -1,1 +1,3 @@
-pyhton-dotenv
+streamlit
+requests
+python-dotenv
